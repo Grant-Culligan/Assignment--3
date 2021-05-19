@@ -1,0 +1,27 @@
+#head {
+  size: 150%;
+  text-align: center;
+}
+
+.tex {
+  font-family: sans-serif;
+  background-color: #343a40;
+  color: #dee2e6;
+}
+
+.des {
+  font-size: 97%;
+  border-color: #495057;
+  border-width: .25em;
+  border-style: double;
+  background-color: #212529;
+  width: 20%;
+  text-align: left;
+  float: left;
+}
+
+.links {
+  font-size: 90%;
+  font-color: rgb(0, 0, 255);
+  background-color: white;
+}
